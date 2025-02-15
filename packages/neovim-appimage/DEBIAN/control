@@ -1,0 +1,7 @@
+Package: neovim-appimage
+Version: 0.10.4
+Maintainer: Hung ND <ndgnuh@protonmail.com>
+Architecture: amd64
+Depends: fuse, fuse3
+Conflicts: neovim, neovim-runtime
+Description: Vim-fork focused on extensibility and usability (upstream appimage version).

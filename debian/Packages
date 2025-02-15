@@ -1,3 +1,16 @@
+Package: neovim-appimage
+Version: 0.10.4
+Architecture: amd64
+Maintainer: Hung ND <ndgnuh@protonmail.com>
+Depends: fuse, fuse3
+Conflicts: neovim, neovim-runtime
+Filename: ./neovim-appimage.deb
+Size: 23857616
+MD5sum: 38bfc00ce9ea6976e37d5ecb25bd39ac
+SHA1: c3b97595d1222a8dba99519862a07a96078ff9f5
+SHA256: 18fec9780bfcbbac4ab47a04b9595cba69cbb5bd92c1ef3141fab7747b66edb2
+Description: Vim-fork focused on extensibility and usability (upstream appimage version).
+
 Package: sakura-ndgnuh
 Version: 3.8.8
 Architecture: amd64
