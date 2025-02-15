@@ -1,0 +1,20 @@
+Package: sakura-ndgnuh
+Version: 3.8.8
+Architecture: amd64
+Maintainer: Hung ND <ndgnuh@protonmail.com>
+Depends: libc6 (>= 2.34), libglib2.0-0t64 (>= 2.36.0), libgtk-3-0t64 (>= 3.21.5), libpango-1.0-0 (>= 1.14.0), libvte-2.91-0 (>= 0.51.90)
+Conflicts: sakura
+Provides: x-terminal-emulator
+Filename: debian/sakura-ndgnuh.deb
+Size: 54860
+MD5sum: ea378bb1ed442db016ea7bc1d8591ee1
+SHA1: 20b9562b0f3bb3b65f0ee295e7a37a9fcb47ec97
+SHA256: 193bc3aec03d51e43f31b2da5cf9ea0a8752ae59528e956d506860c8fc256859
+Section: x11
+Priority: optional
+Description: simple but powerful libvte-based terminal emulator (ndgnuh fork)
+ Sakura is a terminal emulator based on GTK+ and VTE. It's a
+ terminal emulator with few dependencies, so you don't need a
+ full GNOME desktop installed to have a decent terminal emulator.
+Uploaders: Hung ND <ndgnuh@protonmail.com>
+
