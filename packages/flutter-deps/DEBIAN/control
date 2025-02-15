@@ -1,0 +1,7 @@
+Package: flutter-deps
+Version: 3.29.0
+Maintainer: Hung ND <ndgnuh@protonmail.com>
+Architecture: amd64
+Depends: curl, git, unzip, xz-utils, zip, libglu1-mesa, clang, cmake, git, ninja-build, pkg-config, libgtk-3-dev, liblzma-dev, libstdc++-12-dev
+Description: Dependencies for Google's Flutter
+Homepage: https://docs.flutter.dev/get-started/install
