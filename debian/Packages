@@ -3,7 +3,7 @@ Version: 3.29.0
 Architecture: amd64
 Maintainer: Hung ND <ndgnuh@protonmail.com>
 Depends: curl, git, unzip, xz-utils, zip, libglu1-mesa, clang, cmake, git, ninja-build, pkg-config, libgtk-3-dev, liblzma-dev, libstdc++-12-dev
-Filename: ./debian/flutter-deps.deb
+Filename: ./flutter-deps.deb
 Size: 824
 MD5sum: e36ec6fb4dca79176de212ad581e0a79
 SHA1: 1052970dacc65a850459a5e20f779adad6ea6f06
@@ -17,7 +17,7 @@ Architecture: amd64
 Maintainer: Hung ND <ndgnuh@protonmail.com>
 Depends: fuse, fuse3
 Conflicts: neovim, neovim-runtime
-Filename: ./debian/neovim-appimage.deb
+Filename: ./neovim-appimage.deb
 Size: 11927900
 MD5sum: f169fea81b881e114bf4575309ce2947
 SHA1: d21fa7b02faf9c4764672ffc52a45ea13d85b645
@@ -31,7 +31,7 @@ Maintainer: Hung ND <ndgnuh@protonmail.com>
 Depends: libc6 (>= 2.34), libglib2.0-0t64 (>= 2.36.0), libgtk-3-0t64 (>= 3.21.5), libpango-1.0-0 (>= 1.14.0), libvte-2.91-0 (>= 0.51.90)
 Conflicts: sakura
 Provides: x-terminal-emulator
-Filename: ./debian/sakura-ndgnuh.deb
+Filename: ./sakura-ndgnuh.deb
 Size: 54860
 MD5sum: ea378bb1ed442db016ea7bc1d8591ee1
 SHA1: 20b9562b0f3bb3b65f0ee295e7a37a9fcb47ec97
@@ -48,18 +48,7 @@ Package: tex-gyre-collection
 Version: 1.0.0
 Architecture: any
 Maintainer: Hung ND <ndgnuh@protonmail.com>
-Filename: ./packages/tex-gyre-collection.deb
-Size: 1531420
-MD5sum: caf9f0d71660c9e805751985e6a5d44a
-SHA1: 7598e3494349df5824e592545b4c2eb158db5152
-SHA256: 72b872afd5a04cba4fdbd15424d5552a66e6f9a38636005ec9404534a94d399d
-Description: The TeX Gyre (TG) Collection of Fonts.
-
-Package: tex-gyre-collection
-Version: 1.0.0
-Architecture: any
-Maintainer: Hung ND <ndgnuh@protonmail.com>
-Filename: ./debian/tex-gyre-collection.deb
+Filename: ./tex-gyre-collection.deb
 Size: 1531420
 MD5sum: caf9f0d71660c9e805751985e6a5d44a
 SHA1: 7598e3494349df5824e592545b4c2eb158db5152
