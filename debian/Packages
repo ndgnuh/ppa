@@ -46,12 +46,12 @@ Uploaders: Hung ND <ndgnuh@protonmail.com>
 
 Package: tex-gyre-collection
 Version: 1.0.0
-Architecture: any
+Architecture: all
 Maintainer: Hung ND <ndgnuh@protonmail.com>
 Filename: ./tex-gyre-collection.deb
 Size: 1531420
-MD5sum: caf9f0d71660c9e805751985e6a5d44a
-SHA1: 7598e3494349df5824e592545b4c2eb158db5152
-SHA256: 72b872afd5a04cba4fdbd15424d5552a66e6f9a38636005ec9404534a94d399d
+MD5sum: a1a1aaba173e46f31f5d38be6f5688aa
+SHA1: 70085e1902ccef18f152fc76b8d7230513b052b2
+SHA256: 34b5ee419d9fdd693f3b300f657f11b0608a6cbe05faca9b4020f4259ef9ade1
 Description: The TeX Gyre (TG) Collection of Fonts.
 
