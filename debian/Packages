@@ -55,3 +55,14 @@ SHA1: 70085e1902ccef18f152fc76b8d7230513b052b2
 SHA256: 34b5ee419d9fdd693f3b300f657f11b0608a6cbe05faca9b4020f4259ef9ade1
 Description: The TeX Gyre (TG) Collection of Fonts.
 
+Package: winrar-bin
+Version: 7.10
+Architecture: amd64
+Maintainer: Hung ND <ndgnuh@protonmail.com>
+Filename: ./winrar-bin.deb
+Size: 422732
+MD5sum: 21c5519705ff639327b8b526ead98735
+SHA1: 8cd91219a42307c6e66eb172ebe1845e44039196
+SHA256: db89ef416c96e6f5af2bf84f6078b4bd4f1c1875c83055e94e5478580a7146e8
+Description: Linux version of winrar, provide rar and unrar commands.
+
