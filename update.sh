@@ -1,5 +1,7 @@
+#!/bin/bash
 EMAIL=ndgnuh@protonmail.com
 REPO=debian
+GPG=/bin/gpg # CONFLICT WITH NIX COMMANDS?
 
 cd $REPO
 
@@ -9,7 +11,7 @@ gzip -k -f Packages
 
 # Release, Release.gpg & InRelease
 apt-ftparchive release . > Release
-gpg --default-key "${EMAIL}" -abs -o - Release > Release.gpg
-gpg --default-key "${EMAIL}" --clearsign -o - Release > InRelease
+$GPG --default-key "${EMAIL}" -abs -o - Release > Release.gpg
+$GPG --default-key "${EMAIL}" --clearsign -o - Release > InRelease
 
 cd ..

@@ -1,5 +1,5 @@
 Package: neovim-appimage
-Version: 0.10.4
+Version: 0.11.2
 Maintainer: Hung ND <ndgnuh@protonmail.com>
 Architecture: amd64
 Depends: fuse, fuse3
