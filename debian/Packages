@@ -12,16 +12,16 @@ Homepage: https://docs.flutter.dev/get-started/install
 Description: Dependencies for Google's Flutter
 
 Package: neovim-appimage
-Version: 0.10.4
+Version: 0.11.2
 Architecture: amd64
 Maintainer: Hung ND <ndgnuh@protonmail.com>
 Depends: fuse, fuse3
 Conflicts: neovim, neovim-runtime
 Filename: ./neovim-appimage.deb
-Size: 11927900
-MD5sum: f169fea81b881e114bf4575309ce2947
-SHA1: d21fa7b02faf9c4764672ffc52a45ea13d85b645
-SHA256: ebce1e444a2d79b15524696914b2d663c75158ad14cb08cb82effe0d61802a4b
+Size: 10440696
+MD5sum: 69ec0a72f78c740aaad9d16ad02f4760
+SHA1: 6d2ea587bc7c8bda314d2a1a6d8853e49412a952
+SHA256: c1a806319624a0e8df380d4ed88a1a36926cd43e62219d5b96bf0686ecc5bb3b
 Description: Vim-fork focused on extensibility and usability (upstream appimage version).
 
 Package: sakura-ndgnuh
