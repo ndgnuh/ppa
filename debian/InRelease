@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Sun, 08 Jun 2025 10:27:59 +0000
+MD5Sum:
+ b4955e06adcc6f0573135a0d83ecc484             2581 Packages
+ c14c0318b787f3a70d50f7e7ff524553             1311 Packages.gz
+ 726524d571fa96c53afb9f39382809a1               38 Release
+SHA1:
+ 2387658dc85701a8a1227d91cb2270d259b107ab             2581 Packages
+ 2dc49ad86bd422f5764ae205a626b2d83cffb937             1311 Packages.gz
+ f69592f953c23ba40313e0b7dfcdd44666e3edc9               38 Release
+SHA256:
+ d74ba22461d2fb43bd3a1b0273e321553948dd12ad482e54aefc1e62366831eb             2581 Packages
+ 6721bfbb6c104204e2189f6368588d9f90ef9e726a2f7f19d03318bd1c2a9a54             1311 Packages.gz
+ 8550064849de0faae28f4b1d077f6cef0d22a2daffa1f9ef0d7d4321c4dec377               38 Release
+SHA512:
+ 5abc9e1b08e4dd24e81624aacce38111ff3d605b001d025686bae3330cf2c7fdd60ffb3aa31d280e2185110dc2f8d79883c3bc9d47f25ae89148c38d43fd0d9a             2581 Packages
+ d1c5d60e042d766dba6dd2845369c175ff0c373428d354503aba12956f01a09b9eba0ce5c17b1d00aef780bbf502889dadf77a965688cf5550fd928c12e38194             1311 Packages.gz
+ 94ab18dfc9e3ff56d3f0adcb2388029c481357f448336bb961274b408549a6b8c660b2f1651ada390d1a7548560f4ecfecda8e67dc245deb7a99e3d7b40ccb7a               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQTTELE6zVPBzZyUt7sjbtgXNpKb+QUCaEVltgAKCRAjbtgXNpKb
++UwQAQDzKk9WQqtng8C59LcQsgW3bg780/vM2AdKyF6nqEYqGgD/bGyCeqNUh6Mk
+wtaMz8OC42RS9I9jTtsxSX8T1JclGAM=
+=aZ8p
+-----END PGP SIGNATURE-----

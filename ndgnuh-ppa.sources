@@ -2,4 +2,4 @@ Types: deb
 URIs: https://raw.githubusercontent.com/ndgnuh/ppa/refs/heads/master/debian/
 Suites: ./
 Components: 
-Signed-By: /etc/apt/trusted.gpg.d/ndgnuh-ppa.gpg
+Signed-By: /etc/apt/keyrings/ndgnuh-ppa.gpg
